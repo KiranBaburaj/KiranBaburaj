@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm Kiran Baburaj
 
-<!--
-**KiranBaburaj/KiranBaburaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Python Full Stack Developer** with expertise in building scalable web applications and a passion for engineering solutions. M.Tech graduate and recognized as a top performer during an intensive bootcamp!
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Skills:
+- **Languages**: Python, JavaScript
+- **Frameworks**: Django, React
+- **Tools**: AWS, Docker, PostgreSQL, Git, JIRA
+- **Concepts**: REST APIs, WebSockets, Agile Methodologies
 
-- 🔭 I’m currently as python Full Stack Developer 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Projects:
+- [Interview Insights](link-to-project) – Online job portal connecting job seekers with employers.
+- [Jewel eCom](link-to-project) – An e-commerce platform developed with Django and AWS hosting.
+
+### 💡 Fun fact:
+I'm a quick learner and an advocate for continuous improvement. I enjoy mentoring junior developers and contributing to open-source projects.
+
+### 📫 How to reach me:
+- **Email**: kiranbaburaj.t@gmail.com
+- **LinkedIn**: [Kiran Baburaj](https://www.linkedin.com/in/kiranbaburaj)
+
