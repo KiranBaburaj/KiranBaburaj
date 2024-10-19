@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kiran Baburaj
 
-🚀 **Enthusiastic Python Full Stack Developer** with hands-on experience in building scalable web applications, particularly focused on engineering solutions. I hold an **M.Tech in Manufacturing Systems Management** and was recognized as a **top performer** during an intensive full-stack bootcamp. Passionate about delivering impactful solutions in dynamic, fast-growing teams.
+🚀 **Enthusiastic Python Full Stack Developer** with hands-on experience in building scalable web applications, particularly focused on engineering solutions. I hold an **M.Tech** and was recognized as a **top performer** during an intensive full-stack bootcamp. Passionate about delivering impactful solutions in dynamic, fast-growing teams.
 
 ---
 
@@ -48,13 +48,6 @@ A system facilitating submission, review, and approval of leave requests within 
 
 ---
 
-### 📈 Education:
-- **M.Tech - Manufacturing Systems Management** (2016-2018)  
-  Government Engineering College, Thrissur | CGPA: 7.97
-- **B.Tech - Production Engineering** (2012-2016)  
-  Government Engineering College, Thrissur | CGPA: 7.53
-
----
 
 ### 💡 Fun Fact:
 I’m a quick learner who loves to mentor junior developers, solve problems, and continuously explore new technologies.
