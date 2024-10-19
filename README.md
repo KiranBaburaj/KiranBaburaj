@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kiran Baburaj
 
-🚀 **Enthusiastic Python Full Stack Developer** with hands-on experience in building scalable web applications, particularly focused on engineering solutions. I hold an **M.Tech** and was recognized as a **top performer** during an intensive full-stack bootcamp. Passionate about delivering impactful solutions in dynamic, fast-growing teams.
+🚀 **Enthusiastic Python Full Stack Developer** with hands-on experience in building scalable web applications. I hold an **M.Tech** and was recognized as a **top performer** during an intensive full-stack bootcamp. Passionate about delivering impactful solutions in dynamic, fast-growing teams.
 
 ---
 
