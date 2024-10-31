@@ -49,7 +49,7 @@ A system facilitating submission, review, and approval of leave requests within 
 ---
 
 
-### 💡 Fun Fact:
+### 💡  Fact:
 I’m a quick learner who loves to mentor junior developers, solve problems, and continuously explore new technologies.
 
 ---
